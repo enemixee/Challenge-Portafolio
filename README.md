@@ -9,5 +9,5 @@
 ---
 
 ---
-### Este repositorio base esta dedicado a alojar el desafío de  portafolio para Alura latam / Oracle ONE 
+### Este repositorio esta dedicado a alojar el desafío de  portafolio para Alura latam / Oracle ONE 
 
